@@ -1,8 +1,6 @@
 steak
 shrimp
 lobster
-<<<<<<< HEAD
 bananas
-=======
 potato
->>>>>>> food added
+baked beans
